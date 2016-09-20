@@ -1,2 +1,6 @@
 Playing around analyzing car sales data in US.
 
+Some notebooks have java script not plotting on github. Better to use nbviewer:
+
+http://nbviewer.jupyter.org/github/jfbg/VR_data/tree/master/
+
